@@ -49,7 +49,7 @@ data/ sql/ python/ dashboard/
 
 
 ## Dashboard Preview
-![Dashboard](dashboard-preview.png)
+![Dashboard](Dashboard-preview.png)
 
 
 
